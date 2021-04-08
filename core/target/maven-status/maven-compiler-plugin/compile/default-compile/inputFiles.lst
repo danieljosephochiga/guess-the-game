@@ -1,1 +1,8 @@
-/home/onefiochi_joseph/IdeaProjects/guess-the-game/core/src/main/java/com/iNetSoft/project/Main.java
+/home/onefiochi_joseph/IdeaProjects/guess-the-game/core/src/main/java/com/iNetSoft/project/MessageGenerator.java
+/home/onefiochi_joseph/IdeaProjects/guess-the-game/core/src/main/java/com/iNetSoft/project/config/AppConfig.java
+/home/onefiochi_joseph/IdeaProjects/guess-the-game/core/src/main/java/com/iNetSoft/project/NumberGeneratorImpl.java
+/home/onefiochi_joseph/IdeaProjects/guess-the-game/core/src/main/java/com/iNetSoft/project/MessageGeneratorImpl.java
+/home/onefiochi_joseph/IdeaProjects/guess-the-game/core/src/main/java/com/iNetSoft/project/Game.java
+/home/onefiochi_joseph/IdeaProjects/guess-the-game/core/src/main/java/com/iNetSoft/project/NumberGenerator.java
+/home/onefiochi_joseph/IdeaProjects/guess-the-game/core/src/main/java/com/iNetSoft/project/GameImpl.java
+/home/onefiochi_joseph/IdeaProjects/guess-the-game/core/src/main/java/com/iNetSoft/project/config/GameConfig.java
